@@ -13,3 +13,7 @@ cd pytorch-gradual-warmup-lr/
 python setup.py install
 cd ..
 ~~~
+Use the following command to create the environment:
+~~~
+conda env create -f environment.yml
+~~~
