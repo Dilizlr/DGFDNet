@@ -25,6 +25,7 @@ python main.py --mode train --data_dir your_data_path
 ~~~
 
 ## Testing
+Pre-trained weights will be uploaded.
 ~~~
 cd XXX
 python main.py --mode test --data_dir your_data_path --test_model path_of_model
