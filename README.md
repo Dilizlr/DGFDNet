@@ -1,4 +1,4 @@
-## DGFDNet: Efficient Dual-domain Image Dehazing with Haze Prior Perception
+# DGFDNet: Efficient Dual-domain Image Dehazing with Haze Prior Perception
 Lirong Zheng, Yanshan Li, Rui Yu, Kaihao Zhang
 
 ## Abstract
@@ -16,4 +16,16 @@ cd ..
 Use the following command to create the environment:
 ~~~
 conda env create -f environment.yml
+~~~
+
+## Training
+~~~
+cd XXX
+python main.py --mode train --data_dir your_data_path
+~~~
+
+## Testing
+~~~
+cd XXX
+python main.py --mode test --data_dir your_data_path --test_model path_of_model
 ~~~
