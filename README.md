@@ -1,5 +1,8 @@
-# DGFDNet: Efficient Dual-domain Image Dehazing with Haze Prior Perception (ArXiv: https://arxiv.org/abs/2507.11035)
+# DGFDNet: Efficient Dual-domain Image Dehazing with Haze Prior Perception
 Lirong Zheng, Yanshan Li, Rui Yu, Kaihao Zhang
+
+## Paper Link
+ArXiv: https://arxiv.org/abs/2507.11035
 
 ## Abstract
 Transformer-based models exhibit strong global modeling capabilities in single-image dehazing, but their high computational cost limits real-time applicability. Existing methods predominantly rely on spatial-domain features to capture long-range dependencies, which are computationally expensive and often inadequate under complex haze conditions. While some approaches introduce frequency-domain cues, the weak coupling between spatial and frequency branches limits the overall performance.
