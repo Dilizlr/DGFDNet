@@ -1,4 +1,4 @@
-# DGFDNet: Efficient Dual-domain Image Dehazing with Haze Prior Perception
+# DGFDNet: Efficient Dual-domain Image Dehazing with Haze Prior Perception (ArXiv: https://arxiv.org/abs/2507.11035)
 Lirong Zheng, Yanshan Li, Rui Yu, Kaihao Zhang
 
 ## Abstract
