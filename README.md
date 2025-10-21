@@ -28,7 +28,7 @@ python main.py --mode train --data_dir your_data_path
 ~~~
 
 ## Testing
-Pre-trained weights will be uploaded.
+Pre-trained weights can be obtained from [Baidu Netdisk](https://pan.baidu.com/s/1C874WLD2BqJYtzJn1m6TAA?pwd=6rsa)(6rsa).
 ~~~
 cd Dehazing/XXX
 python main.py --mode test --data_dir your_data_path --test_model path_of_model
