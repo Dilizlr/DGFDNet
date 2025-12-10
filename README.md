@@ -10,7 +10,7 @@ To overcome these limitations, we propose the Dark Channel Guided Frequency-awar
 Additionally, a Prior Correction Guidance Branch (PCGB) incorporates a closed-loop feedback mechanism, enabling iterative refinement of the prior by intermediate dehazed features and significantly improving haze localization accuracy, especially in challenging outdoor scenes. Extensive experiments on four benchmark haze datasets demonstrate that DGFDNet achieves state-of-the-art performance with superior robustness and real-time efficiency.
 
 ## Overview
-
+![](https://github.com/Dilizlr/DGFDNet/blob/main/README_images/overview.jpg)
 
 ## Installation
 Install warmup scheduler:
