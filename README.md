@@ -9,6 +9,9 @@ Transformer-based models exhibit strong global modeling capabilities in single-i
 To overcome these limitations, we propose the Dark Channel Guided Frequency-aware Dehazing Network (DGFDNet), a novel dual-domain framework that performs physically guided degradation alignment across spatial and frequency domains. At its core, the DGFDBlock comprises two key modules: 1) the Haze-Aware Frequency Modulator (HAFM), which generates a pixel-level haze confidence map from dark channel priors to adaptively enhance haze-relevant frequency components, thereby achieving global degradation-aware spectral modulation; 2) the Multi-level Gating Aggregation Module (MGAM), which fuses multi-scale features through diverse convolutional kernels and hybrid gating mechanisms to recover fine structural details.
 Additionally, a Prior Correction Guidance Branch (PCGB) incorporates a closed-loop feedback mechanism, enabling iterative refinement of the prior by intermediate dehazed features and significantly improving haze localization accuracy, especially in challenging outdoor scenes. Extensive experiments on four benchmark haze datasets demonstrate that DGFDNet achieves state-of-the-art performance with superior robustness and real-time efficiency.
 
+## Overview
+
+
 ## Installation
 Install warmup scheduler:
 ~~~
